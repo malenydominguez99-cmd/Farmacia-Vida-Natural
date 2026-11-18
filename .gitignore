@@ -1,0 +1,16 @@
+# Archivos generados por NetBeans
+/build/
+/dist/
+
+# Archivos temporales de Java
+*.class
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuraciones privadas de NetBeans
+/nbproject/private/
+
+# Credenciales de MySQL
+/src/models/config.properties
